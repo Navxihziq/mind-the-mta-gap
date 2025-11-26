@@ -1,0 +1,11 @@
+station_1,routes_1,station_2,routes_2
+14 St,1,14 St,F
+14 St,F,6 Av,L
+14 St,A,8 Av,L
+New Utrecht Av,N,62 St,D
+Jackson Hts-Roosevelt Av,F,74 St-Broadway,7
+14 St,F,14 St,1
+6 Av,L,14 St,F
+8 Av,L,14 St,A
+62 St,D,New Utrecht Av,N
+74 St-Broadway,7,Jackson Hts-Roosevelt Av,F

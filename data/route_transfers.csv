@@ -1,0 +1,79 @@
+route,stop_name,transferable_route
+E,5 Av/53 St,M
+M,5 Av/53 St,E
+B,7 Av,D
+B,7 Av,E
+D,7 Av,B
+D,7 Av,E
+E,7 Av,B
+E,7 Av,D
+N,Canal St,Q
+Q,Canal St,N
+A,Canal St,C
+A,Canal St,E
+C,Canal St,A
+C,Canal St,E
+E,Canal St,A
+E,Canal St,C
+R,City Hall,W
+W,City Hall,R
+J,Delancey St-Essex St,M
+J,Delancey St-Essex St,Z
+M,Delancey St-Essex St,J
+M,Delancey St-Essex St,Z
+Z,Delancey St-Essex St,J
+Z,Delancey St-Essex St,M
+B,Grand St,D
+D,Grand St,B
+N,Lexington Av/59 St,R
+N,Lexington Av/59 St,W
+R,Lexington Av/59 St,N
+R,Lexington Av/59 St,W
+W,Lexington Av/59 St,N
+W,Lexington Av/59 St,R
+R,Whitehall St-South Ferry,W
+W,Whitehall St-South Ferry,R
+4,138 St-Grand Concourse,5
+5,138 St-Grand Concourse,4
+D,36 St,N
+D,36 St,R
+N,36 St,D
+N,36 St,R
+R,36 St,D
+R,36 St,N
+F,Bergen St,G
+G,Bergen St,F
+2,Franklin Av,3
+2,Franklin Av,4
+2,Franklin Av,5
+3,Franklin Av,2
+3,Franklin Av,4
+3,Franklin Av,5
+4,Franklin Av,2
+4,Franklin Av,3
+4,Franklin Av,5
+5,Franklin Av,2
+5,Franklin Av,3
+5,Franklin Av,4
+A,Hoyt-Schermerhorn Sts,C
+A,Hoyt-Schermerhorn Sts,G
+C,Hoyt-Schermerhorn Sts,A
+C,Hoyt-Schermerhorn Sts,G
+G,Hoyt-Schermerhorn Sts,A
+G,Hoyt-Schermerhorn Sts,C
+B,Newkirk Plaza,Q
+Q,Newkirk Plaza,B
+2,Nevins St,3
+2,Nevins St,4
+2,Nevins St,5
+3,Nevins St,2
+3,Nevins St,4
+3,Nevins St,5
+4,Nevins St,2
+4,Nevins St,3
+4,Nevins St,5
+5,Nevins St,2
+5,Nevins St,3
+5,Nevins St,4
+B,Sheepshead Bay,Q
+Q,Sheepshead Bay,B
