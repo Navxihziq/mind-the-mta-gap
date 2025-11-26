@@ -31,6 +31,16 @@ Then open up the notebook and enjoy the ride.
 
 All the gory details, data cleaning rants, and Renaissance art metaphors live in the notebook. Start there.
 
+# [📓 CLICK HERE TO READ THE NOTEBOOK 📓](notebook/main.ipynb)
+
+# [📊 SERIOUSLY, THE NOTEBOOK IS WHERE ALL THE MAGIC HAPPENS 📊](notebook/main.ipynb)
+
+# [🚇 EVERYTHING YOU NEED TO KNOW IS IN THE NOTEBOOK 🚇](notebook/main.ipynb)
+
+# [♿ YES, THIS LINK RIGHT HERE ♿](notebook/main.ipynb)
+
+# [🔗 notebook/main.ipynb 🔗](notebook/main.ipynb)
+
 ## Acknowledgments
 
 - MTA, for the data (and the chaos)
