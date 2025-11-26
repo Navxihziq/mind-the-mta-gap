@@ -1,6 +1,6 @@
 # MTA ADA Network Analysis
 
-Ever wondered what the NYC subway looks like if you actually need an elevator? Danielle Schulz and Xiaofan Liang did. They (more like myself) dragged me along for the ride.
+Ever wondered what the NYC subway looks like if you actually need an elevator? [<span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; text-decoration: underline;">DANIELLE SCHULZ</span>](https://www.xiaofanliang.com/author/danielle-schulz/) and [<span style="background: linear-gradient(135deg, #764ba2 0%, #f5576c 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; text-decoration: underline;">XIAOFAN LIANG</span>](https://www.xiaofanliang.com/) did. They (more like myself) dragged me along for the ride.
 
 I helped out with the network part, but turns out the real pain comes from wrangling the data. Spoiler: it's mostly data wrangling.
 
